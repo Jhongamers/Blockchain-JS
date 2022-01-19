@@ -4,18 +4,18 @@ this is my blockchain made in javascript using node js with modules
 ## Installation
     use the package manager [npm](https://www.npmjs.com/package/crypto-js) to install crypto-js.
 
-```Terminal
+Terminal
 npm install crypto-js
 
-  se the package manager [npm](https://www.npmjs.com/package/elliptic) to install elliptic.
+use the package manager [npm](https://www.npmjs.com/package/elliptic) to install elliptic.
 
-  ```Terminal
+  Terminal
 npm install crypto-js
 
 
-##  how run script , first run code 
+##  how run script first run code 
 
-```Terminal
+Terminal
 cd src  and after node keygenerator.js
 
 copy the generated private key write
