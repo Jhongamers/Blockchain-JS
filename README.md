@@ -7,7 +7,7 @@ use the package manager [npm](https://www.npmjs.com/package/crypto-js) to instal
 
 Terminal
 ````
-     npm install crypto-js
+npm install crypto-js
   ````
 
 use the package manager [npm](https://www.npmjs.com/package/elliptic) to install elliptic.
